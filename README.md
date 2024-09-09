@@ -69,12 +69,15 @@
 ## Screenshots
 
 ### Main Interface
-<img width="804" alt="Screenshot 2024-09-09 at 12 48 20 PM" src="https://github.com/user-attachments/assets/13606315-0157-4ff4-a6b7-b0f313ba1bda">
+<img width="400" alt="Screenshot 2024-09-09 at 12 48 20 PM" src="https://github.com/user-attachments/assets/13606315-0157-4ff4-a6b7-b0f313ba1bda">
 
 
 ### Contact Us
-<img width="399" alt="Screenshot 2024-09-09 at 12 48 32 PM" src="https://github.com/user-attachments/assets/a649fd25-e230-43a9-b904-b87166338a9f">
+<img width="400" alt="Screenshot 2024-09-09 at 12 48 32 PM" src="https://github.com/user-attachments/assets/a649fd25-e230-43a9-b904-b87166338a9f">
 
 
-## File Structure
+## Authors
+
+- Yonatan Rahamim ([yonatan.rahamim@gmail.com](mailto:yonatan.rahamim@gmail.com))
+- Matan Slasky ([matanslasky@gmail.com](mailto:matanslasky@gmail.com))
 
