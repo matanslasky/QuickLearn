@@ -69,7 +69,8 @@
 ## Screenshots
 
 ### Main Interface
-![Main Interface](./screenshots/main_interface.png)
+<img width="804" alt="Screenshot 2024-09-09 at 12 48 20 PM" src="https://github.com/user-attachments/assets/13606315-0157-4ff4-a6b7-b0f313ba1bda">
+
 
 ### Contact Us
 <img width="399" alt="Screenshot 2024-09-09 at 12 48 32 PM" src="https://github.com/user-attachments/assets/a649fd25-e230-43a9-b904-b87166338a9f">
