@@ -72,7 +72,8 @@
 ![Main Interface](./screenshots/main_interface.png)
 
 ### Contact Us
-![Contact Us](./screenshots/contact_us.png)
+<img width="399" alt="Screenshot 2024-09-09 at 12 48 32 PM" src="https://github.com/user-attachments/assets/a649fd25-e230-43a9-b904-b87166338a9f">
+
 
 ## File Structure
 
